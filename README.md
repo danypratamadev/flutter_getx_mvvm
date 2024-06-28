@@ -1,10 +1,17 @@
 # flutter_getx_mvvm
 
-A new Flutter project.
+Example flutter project with MVVM architecture and using GetX for state management.
 
-## Getting Started
+## Technology
 
-This project is a starting point for a Flutter application.
+- Flutter: 3.22.X later
+- Get: 4.6.6
+- Http: 1.2.1
+
+## Support
+
+- Android
+- iOS
 
 A few resources to get you started if this is your first Flutter project:
 
