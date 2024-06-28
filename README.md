@@ -15,11 +15,23 @@ Example flutter project with MVVM architecture and using GetX for state manageme
 
 ## Result
 
-<img src="https://raw.github.com/danypratamadev/flutter_getx_mvvm/master/assets/screenshots/splash.png" width=360 height=auto>
-<img src="https://raw.github.com/danypratamadev/flutter_getx_mvvm/master/assets/screenshots/home1.png" width=360 height=auto>
-<img src="https://raw.github.com/danypratamadev/flutter_getx_mvvm/master/assets/screenshots/home2.png" width=360 height=auto>
-![image](https://raw.github.com/danypratamadev/flutter_getx_mvvm/master/assets/screenshots/splash.png)
-![image](https://raw.github.com/danypratamadev/flutter_getx_mvvm/master/assets/screenshots/home1.png)
-![image](https://raw.github.com/danypratamadev/flutter_getx_mvvm/master/assets/screenshots/home2.png)
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://raw.github.com/danypratamadev/flutter_getx_mvvm/master/assets/screenshots/splash.png" width=360 height=auto>
+    </td>
+    <td valign="top">
+      <img src="https://raw.github.com/danypratamadev/flutter_getx_mvvm/master/assets/screenshots/home1.png" width=360 height=auto>
+    </td>
+    <td valign="top">
+      <img src="https://raw.github.com/danypratamadev/flutter_getx_mvvm/master/assets/screenshots/home2.png" width=360 height=auto>
+    </td>
+  </tr>
+  <tr>
+    <td>Splah Page</td>
+    <td>Loading get users</td>
+    <td>Sucess get users</td>
+  </tr>
+</table>
 
 Thank you for visiting this repository.
