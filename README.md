@@ -13,11 +13,10 @@ Example flutter project with MVVM architecture and using GetX for state manageme
 - Android
 - iOS
 
-A few resources to get you started if this is your first Flutter project:
+## Result
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://raw.github.com/danypratamadev/flutter_getx_mvvm/master/assets/screenshots/splash.png)
+![image](https://raw.github.com/danypratamadev/flutter_getx_mvvm/master/assets/screenshots/home1.png)
+![image](https://raw.github.com/danypratamadev/flutter_getx_mvvm/master/assets/screenshots/home2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thank you for visiting this repository.
