@@ -17,20 +17,20 @@ Example flutter project with MVVM architecture and using GetX for state manageme
 
 <table>
   <tr>
-    <td valign="top">
-      <img src="https://raw.github.com/danypratamadev/flutter_getx_mvvm/master/assets/screenshots/splash.png" width=360 height=auto>
+    <td valign="center">
+      <img src="https://raw.github.com/danypratamadev/flutter_getx_mvvm/master/assets/screenshots/splash.png" width=340 height=auto>
     </td>
-    <td valign="top">
+    <td valign="center">
       <img src="https://raw.github.com/danypratamadev/flutter_getx_mvvm/master/assets/screenshots/home1.png" width=360 height=auto>
     </td>
-    <td valign="top">
+    <td valign="center">
       <img src="https://raw.github.com/danypratamadev/flutter_getx_mvvm/master/assets/screenshots/home2.png" width=360 height=auto>
     </td>
   </tr>
   <tr>
-    <td>Splah Page</td>
-    <td>Loading get users</td>
-    <td>Sucess get users</td>
+    <td halign="center">Splah Page</td>
+    <td halign="center">Loading get users</td>
+    <td halign="center">Sucess get users</td>
   </tr>
 </table>
 
