@@ -13,6 +13,10 @@ Example flutter project with MVVM architecture and using GetX for state manageme
 - Android
 - iOS
 
+## Resource
+
+- [Reqres.in](https://reqres.in)
+
 ## Result
 
 <table>
